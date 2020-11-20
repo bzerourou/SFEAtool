@@ -1,0 +1,9 @@
+% The  main script of SFEATool
+
+% main figure  of SFEATool
+
+figure = figure('SFEATool','','unit','pixel',...
+'position',[0.35 0.2780 1.0881 0.6700]*1e3,...
+'color','w','ToolBar','none','menubar','figure',...
+'Pointer', 'hand'
+);
